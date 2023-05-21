@@ -8,10 +8,10 @@ An app which reads the csv file and display its content in tabular form.
 - BootStrap
 
 # ScreenShots
-![Screnshot (144)](https://user-images.githubusercontent.com/101451924/185240933-ca47ba5c-5147-4aa8-9897-0d0e229e182e.png)
-![Screenshot (145)](https://user-images.githubusercontent.com/101451924/185240957-d6806cec-a773-4cba-a23f-be2d52d9aafa.png)
-![Screenshot (146)](https://user-images.githubusercontent.com/101451924/185240983-10affba3-2eb5-49cc-9ce4-069525519413.png)
-![Screenshot (147)](https://user-images.githubusercontent.com/101451924/185240994-88d73a0c-be6a-4a8d-96b6-0aba83082610.png)
+![csv1](https://github.com/Yashas682/csv_uploader/assets/91604926/d3add6ab-f723-4dd3-842a-1075f2b2273b)
+![csv2](https://github.com/Yashas682/csv_uploader/assets/91604926/c244645a-af89-4e2f-b851-daaf80e954df)
+![csv3](https://github.com/Yashas682/csv_uploader/assets/91604926/444b8380-8a4d-458c-8c95-d8fd9595d187)
+![csv4](https://github.com/Yashas682/csv_uploader/assets/91604926/b445f555-399a-49a8-9a65-eeec08bbe9fe)
 
 # Installation
 Simply pull the project files and install all the dependencies provided in package.json file. Once all the packages have installed successfully then go to terminal with correct directory of the project and give the command 'npm start', Project will start to run on local port 8000.
