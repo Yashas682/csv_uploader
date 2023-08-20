@@ -7,7 +7,7 @@ An app which reads the csv file and display its content in tabular form.
 - Node Js
 - BootStrap
 
-# ScreenShots
+# User Interface
 ![csv1](https://github.com/Yashas682/csv_uploader/assets/91604926/d3add6ab-f723-4dd3-842a-1075f2b2273b)
 ![csv2](https://github.com/Yashas682/csv_uploader/assets/91604926/c244645a-af89-4e2f-b851-daaf80e954df)
 ![csv3](https://github.com/Yashas682/csv_uploader/assets/91604926/444b8380-8a4d-458c-8c95-d8fd9595d187)
